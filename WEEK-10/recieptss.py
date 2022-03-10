@@ -1,4 +1,5 @@
 import csv
+product = {}
 
 def main():
     product_num = 0
