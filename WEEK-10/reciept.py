@@ -35,3 +35,5 @@ print(f"Total: {round(subtotal * 1.06, 2)}")
 print()
 print("Thank you for shopping at the Inkom Emporium.")
 print(datetime.datetime.now().strftime("%a %b   %d %I:%M:%S %Y"))
+print()
+
